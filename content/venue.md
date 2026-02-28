@@ -16,7 +16,7 @@ Vigsnæsvej 36
 ## Transport 
 **Hvis du kommer I bil**, så er der god mulighed for at parkere på addressen.
 
-**Hvis du kommer med offentlig transport**, så er det muligt at tage toget til Nykøbing Falster (20km) eller Sakskøbing (10km) station, men der går ingen busser til Guldborg i weekenden. Derfor anbefaler vi, at I koordinere med nogle af de andre deltagere. Vi hjælper gerne med at finde en løsning. 
+**Hvis du kommer med offentlig transport**, så er det muligt at tage toget til Nykøbing Falster (20km) eller Sakskøbing (10km) station, men der går ingen busser til Guldborg i weekenden. Derfor anbefaler vi, at I koordinerer med nogle af de andre deltagere. Vi hjælper gerne med at finde en løsning. 
 
 ## Overnatning
 For de naturvante er der mulighed for at slå telt op eller medbringe en camper.
