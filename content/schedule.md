@@ -15,10 +15,10 @@ description: "Tidsplan for brylluppet"
 ## Hygge & havespil
 **15:30-18:00** – Fri leg 
 
-## Middag & Fest
+## Middag & fest
 **18:00-??** – Mad, vin og dans
 
 ______________________________
 
-## Morgenmad Søndag
+## Morgenmad søndag
 **10:00-11:00** – Morgenmad og debrief for de overnattende

@@ -10,7 +10,8 @@ theme = 'ananke'
   description = "Vi skal giftes – læs alt du behøver at vide her"
   featured_image = "/images/hero.jpg"
   cover_dimming_class = "bg-black-40"
-  body_classes = "avenir"
+  background_color_class = "bg-orange"
+  body_classes = "avenir bg-near-white"
 
 [params.ananke]
   show_recent_posts = false
