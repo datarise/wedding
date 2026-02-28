@@ -34,7 +34,6 @@ theme = 'ananke'
   url = "/gift-registry/"
   weight = 3
 
-[[menus.main]]
-  name = "Ofte stillede spørgsmål"
-  url = "/faq/"
-  weight = 4
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

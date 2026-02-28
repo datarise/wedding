@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:51233/</loc>
-    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:51233/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:51233/gift-registry/</loc>
+    <loc>http://localhost:1313/gift-registry/</loc>
   </url><url>
-    <loc>http://localhost:51233/venue/</loc>
+    <loc>http://localhost:1313/venue/</loc>
   </url><url>
-    <loc>http://localhost:51233/schedule/</loc>
+    <loc>http://localhost:1313/schedule/</loc>
   </url><url>
-    <loc>http://localhost:51233/faq/</loc>
+    <loc>http://localhost:1313/faq/</loc>
   </url><url>
-    <loc>http://localhost:51233/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

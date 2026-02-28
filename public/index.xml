@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Siv &amp; Oliver</title>
-    <link>http://localhost:51233/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Siv &amp; Oliver</description>
     <generator>Hugo</generator>
     <language>da</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:51233/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ønsker</title>
-      <link>http://localhost:51233/gift-registry/</link>
+      <link>http://localhost:1313/gift-registry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51233/gift-registry/</guid>
+      <guid>http://localhost:1313/gift-registry/</guid>
       <description>&lt;p&gt;Det vigtigste er, at I dukker op i festhumør, men hvis I også er i gavehumør kan I finde vores ønskeliste &lt;a href=&#34;https://wishlist.dk/5148?view=L1tQVjKl9nGPsgpcTQLZiMewPHqj09qLAr3S_-Fzb_4IXmtBBWyMHrbUsMLywS4pk-9YCAhJIk6w3eqnYlszfg&#34;&gt;her&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Praktisk info</title>
-      <link>http://localhost:51233/venue/</link>
+      <link>http://localhost:1313/venue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51233/venue/</guid>
+      <guid>http://localhost:1313/venue/</guid>
       <description>&lt;h2 id=&#34;stedet&#34;&gt;Stedet&lt;/h2&gt;&#xA;&lt;p&gt;Vielse og fest finder sted på Guldborgland Frugtplantage&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Adresse:&lt;/strong&gt;&lt;br&gt;&#xA;Vigsnæsvej 36&#xA;4862 Guldborg&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2296.1110298165795!2d11.707061176451992!3d54.86586147276879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ad4a71577639bb%3A0x103b15e84f25991!2sVigsn%C3%A6svej%2036%2C%204862%20Guldborg!5e0!3m2!1sen!2sdk!4v1771788096591!5m2!1sen!2sdk&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;no-referrer-when-downgrade&#34;&gt;&lt;/iframe&gt;&#xA;&lt;h2 id=&#34;transport&#34;&gt;Transport&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hvis du kommer I bil&lt;/strong&gt;, så er der god mulighed for at parkere på addressen.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hvis du kommer med offentlig transport&lt;/strong&gt;, så er det muligt at tage toget til Nykøbing Falster (20km) eller Sakskøbing (10km) station, men der går ingen busser til Guldborg i weekenden. Derfor anbefaler vi, at I koordinere med nogle af de andre deltagere. Vi hjælper gerne med at finde en løsning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Program</title>
-      <link>http://localhost:51233/schedule/</link>
+      <link>http://localhost:1313/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51233/schedule/</guid>
+      <guid>http://localhost:1313/schedule/</guid>
       <description>&lt;h2 id=&#34;ankomst&#34;&gt;Ankomst&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;13:00-14:00&lt;/strong&gt; – Ankomst &amp;amp; mulighed for opsætning af telte&lt;/p&gt;&#xA;&lt;h2 id=&#34;vielse&#34;&gt;Vielse&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;14:30&lt;/strong&gt; – Vielsen finder sted udenfor&lt;/p&gt;&#xA;&lt;h2 id=&#34;bobler--bryllupskage&#34;&gt;Bobler &amp;amp; bryllupskage&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;15:00&lt;/strong&gt; – Skål!&lt;/p&gt;&#xA;&lt;h2 id=&#34;hygge--havespil&#34;&gt;Hygge &amp;amp; havespil&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;15:30-18:00&lt;/strong&gt; – Fri leg&lt;/p&gt;&#xA;&lt;h2 id=&#34;middag--fest&#34;&gt;Middag &amp;amp; Fest&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;18:00-??&lt;/strong&gt; – Mad, vin og dans&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;morgenmad-søndag&#34;&gt;Morgenmad Søndag&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;10:00-11:00&lt;/strong&gt; – Morgenmad og debrief for de overnattende&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spørgsmål og svar</title>
-      <link>http://localhost:51233/faq/</link>
+      <link>http://localhost:1313/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51233/faq/</guid>
+      <guid>http://localhost:1313/faq/</guid>
       <description>&lt;h2 id=&#34;ofte-stillede-spørgsmål&#34;&gt;Ofte stillede spørgsmål&lt;/h2&gt;&#xA;&lt;p&gt;Her vil der snart være svar på dine spørgsmål om brylluppet.&lt;/p&gt;</description>
     </item>
   </channel>
