@@ -4,7 +4,7 @@ description: "Tidsplan for brylluppet"
 ---
 
 ## Ankomst
-**13:00-14:00** – Ankomst & mulighed for opsætning af telte
+**13:30-14:00** – Ankomst & mulighed for opsætning af telte
 
 ## Vielse
 **14:30** – Vielsen finder sted udenfor

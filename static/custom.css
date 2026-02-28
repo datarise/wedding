@@ -48,6 +48,11 @@ footer {
 footer a {
   color: white;
 }
+
+/* ---- Featured image on home page (make it taller) ---- */
+.featured-image-tall {
+  min-height: 60vh;
+}
 footer a:hover {
   opacity: 0.8;
 }

@@ -16,7 +16,7 @@ Vigsnæsvej 36
 ## Transport 
 **Hvis du kommer I bil**, så er der god mulighed for at parkere på addressen.
 
-**Hvis du kommer med offentlig transport**, så er det muligt at tage toget til Nykøbing Falster (20km) eller Sakskøbing (10km) station, men der går ingen busser til Guldborg i weekenden. Derfor anbefaler vi, at I koordinerer med nogle af de andre deltagere. Vi hjælper gerne med at finde en løsning. 
+**Hvis du kommer med offentlig transport**, så er det muligt at tage toget til Nykøbing Falster (20km) eller Sakskøbing station (10km), men der går ingen busser til Guldborg i weekenden. Derfor anbefaler vi, at I koordinerer med nogle af de andre deltagere. Vi hjælper gerne med at finde en løsning. 
 
 ## Overnatning
 For de naturvante er der mulighed for at slå telt op eller medbringe en camper.
@@ -33,10 +33,11 @@ For de overnattende gæster, slutter vi weekenden af med fælles morgenmad sønd
 
 Hvis du har specielle diæter eller allergi, så giv os besked ved tilmelding.
 
-## Festen er uden børn
+## Festen 
+Er uden børn så vi kan feste til den lyse morgen! 
 
 ## Taler og indslag
-Hvis du ønsker at holde en tale eller lave et indslag, så tag fat i aftenens toastmaster Rebecca Rise Thomsen på tlf 
+Hvis du ønsker at holde en tale eller lave et indslag, så tag fat i aftenens toastmaster Rebecca Rise Thomsen.  
 
 ## Dresscode 
 Festligt og sommerligt - vielsen og de første timer kommer til at foregå udendørs så tag højde for vejret.
