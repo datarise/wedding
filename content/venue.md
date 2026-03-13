@@ -14,7 +14,7 @@ Vigsnæsvej 36
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2296.1110298165795!2d11.707061176451992!3d54.86586147276879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ad4a71577639bb%3A0x103b15e84f25991!2sVigsn%C3%A6svej%2036%2C%204862%20Guldborg!5e0!3m2!1sen!2sdk!4v1771788096591!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Transport 
-**Hvis du kommer I bil**, så er der god mulighed for at parkere på addressen.
+**Hvis du kommer i bil**, så er der god mulighed for at parkere på addressen.
 
 **Hvis du kommer med offentlig transport**, så er det muligt at tage toget til Nykøbing Falster (20km) eller Sakskøbing station (10km), men der går ingen busser til Guldborg i weekenden. Derfor anbefaler vi, at I koordinerer med nogle af de andre deltagere. Vi hjælper gerne med at finde en løsning. 
 
