@@ -3,6 +3,11 @@ title: "Praktisk info"
 description: "Hvor og hvordan"
 ---
 
+## Kontakt
+I kan kontakte os hvor vi normal skrives ved eller kan I fange os på denne email: sivogoliver@pm.me
+
+## SU d. 1 Juni
+
 ## Stedet
 
 Vielse og fest finder sted på Guldborgland Frugtplantage
