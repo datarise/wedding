@@ -3,7 +3,7 @@ title: "Siv & Oliver"
 description: "Vi fejrer vores bryllup og håber du kan være med!"
 featured_image: "/images/collage.png"
 featured_image_class: "cover bg-center featured-image-tall"
-lastmod: 2026-02-28
+lastmod: 2026-05-10
 ---
 D. 15/08/2026 kl 14.00
 
