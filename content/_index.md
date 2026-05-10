@@ -5,6 +5,7 @@ featured_image: "/images/collage.png"
 featured_image_class: "cover bg-center featured-image-tall"
 lastmod: 2026-02-28
 ---
+D. 15/08/2026 kl 14.00
 
 Vi glæder os til at fejre vores bryllup med dig!
 
