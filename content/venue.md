@@ -42,7 +42,7 @@ Hvis du har specielle diæter eller allergi, så giv os besked ved tilmelding.
 Er uden børn så vi kan feste til den lyse morgen! 
 
 ## Taler og indslag
-Hvis du ønsker at holde en tale eller lave et indslag, så tag fat i aftenens toastmaster XXX.  
+Hvis du ønsker at holde en tale eller lave et indslag, så tag fat i aftenens toastmaster Rebecca på Rebecca00@live.dk  
 
 ## Dresscode 
 Festligt og sommerligt - vielsen og de første timer kommer til at foregå udendørs så tag højde for vejret.
